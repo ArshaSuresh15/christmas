@@ -1,0 +1,27 @@
+/* */
+h1{
+    color:rgb(31, 31, 100);
+}
+h2{
+    color:rgb(5, 102, 102);
+}
+h3{
+    color:rgb(55, 6, 102);
+}
+h4{
+    color:rgb(150, 93, 7);
+}
+h5{
+    color:rgb(236, 17, 17);
+}
+div{
+    border: 1px solid rgb(119, 119, 213);
+    width: 700px;
+}
+body{
+    background-color: rgb(198, 233, 206);
+}
+img{
+    border-radius: 50%;
+    border: 1px dotted rgb(3, 44, 3);
+}
